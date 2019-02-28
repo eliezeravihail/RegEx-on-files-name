@@ -16,6 +16,7 @@ new-File{} -> newFile1, newFilw2....
 english:
 
 Instructions:
+
 Run at the command prompt, move 3 arguments:
 1. A path to the desired standard
 2. Regular expression for search
